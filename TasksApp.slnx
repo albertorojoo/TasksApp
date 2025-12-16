@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/ConsoleBus/ConsoleBus.csproj" />
+  </Folder>
+  <Folder Name="/Tasks.API/">
+    <Project Path="Tasks.API/Tasks.API/Tasks.API.csproj" />
+  </Folder>
+  <Folder Name="/Tasks.API/Common/">
+    <Project Path="Tasks.API/Common/Common/Common.csproj" />
+  </Folder>
+  <Folder Name="/Tasks.API/Features/">
+    <Project Path="Tasks.API/Features/Features.CreateTask/Features.CreateTask.csproj" />
+  </Folder>
+</Solution>
